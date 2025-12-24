@@ -30,7 +30,6 @@ if (a < 0) {
 return "Erreur: nombre négatif!"; 
 } 
 return Math.sqrt(a); 
-Guide clonage  d’un dépôt distant -   DD2web- M. TAIS 
 } 
 // Ajouter aussi ces tests 
 console.log("\n=== NOUVELLES FONCTIONS ==="); 
